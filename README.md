@@ -4,8 +4,9 @@
 <h3>Hi there, I'm Sergey Iurev 👋
 <img align='right'src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47i9ji339740ge0wdtkjpuccrl7n7wkvez63gp2bfj&rid=giphy.gif&ct=g" width="300" height="300"/>
 </h3>
-<img align='left' src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=550&height=30&lines=Junior+Front-end+developer;Just+a+novice.+Still+got+a+lot+to+learn." alt="Typing SVG" />
+<!-- <img align='left' src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=550&height=30&lines=Junior+Front-end+developer;Just+a+novice.+Still+got+a+lot+to+learn." alt="Typing SVG" /> -->
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=450&lines=Junior+Front-end+developer;Just+a+novice.+Still+got+a+lot+to+learn.)](https://git.io/typing-svg) 
 </p>
 
 
