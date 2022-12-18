@@ -28,6 +28,7 @@ _But... i'm looking for opportunities_
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' title='Redux' alt='Redux' width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' title='NextJS' alt='NextJS' width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' title='NextJS' alt='NextJS' width='40' height='40'/>&nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg' title='NestJS' alt='NestJS' width='40' height='40'/>&nbsp;
 
 
 
