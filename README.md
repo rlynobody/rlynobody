@@ -10,7 +10,7 @@
 </p>
 
 
-_Currently unemployed_<br/>
+_Currently.._<br/>
 _But... i'm looking for opportunities_
 
 
